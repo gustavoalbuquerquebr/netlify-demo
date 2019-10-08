@@ -7,6 +7,7 @@ import ReactDOM from 'react-dom';
 const App = () => (
   <>
     <h1>Hello, world!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ipsum quo eos inventore fuga sed quas officiis, excepturi at nulla suscipit corporis ea nam optio?</p>
   </>
 );
 
